@@ -1,1 +1,1 @@
-# pyhtonIleNetworkProgramlama
+# PYTHON İLE NETWORK PROGRAMLAMA (SOCKET PROGRAMLAMA)
